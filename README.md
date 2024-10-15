@@ -35,4 +35,4 @@ If you're interested in checking out every transaction, our finances for Blossom
 Lead Organizer: [@sahitid](https://github.com/sahitid)
 
 Members:
-- add your name here w/ a PR!
+- Michelle Wang
