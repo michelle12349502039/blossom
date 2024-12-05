@@ -36,3 +36,9 @@ Lead Organizer: [@sahitid](https://github.com/sahitid)
 
 Members:
 - Michelle Wang
+- Tisha Kaur
+- Charley Sarmiento
+- Fatimah Hussain
+- Priyanka Gupta
+- Shreya Paruchuri
+- Aanya Kungwani
